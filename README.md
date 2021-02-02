@@ -1,2 +1,4 @@
 # PHSX815_Week1
-An repository for the PHSX815 class.
+A repository for the PHSX815 class.
+
+# Edited using vim, the superior text editor
